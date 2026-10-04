@@ -1,0 +1,12 @@
+# environments
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# runtime artifacts
+logs/
+models/*.joblib
